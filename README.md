@@ -94,7 +94,7 @@ results/           # TensorBoard logs and trained models
 ```
 
 ## 📸 Video Recording
-![Demo](media/demo.gif)
+![Demo](demo.gif)
 
 ## 🙌 Credits
 Created by JoanWaweru
