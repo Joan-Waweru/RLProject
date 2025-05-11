@@ -42,10 +42,10 @@ We trained 4 different models with varying network sizes and training speeds.
 
 | Metric           | Best Config          | Colour    | Notes |
 |------------------|----------------------|-------|------|
-| **Cumulative Reward** | `config_fast.yaml`     | 🩶 Grey   |Quickly reaches ~1.1 |
+| **Cumulative Reward** | `config_fast.yaml`     | 💙 Blue   |Quickly reaches ~1.1 |
 | **Episode Length**    | `config_fast.yaml`     | 💙 Blue   |Efficient episodes (~27 steps) |
-| **Policy Loss**       | `config_fast.yaml`     | 🩷 Pink   |Lowest and most stable |
-| **Value Loss**        | `config_fast.yaml`     | 💛 Yellow |Best reward prediction accuracy |
+| **Policy Loss**       | `config_fast.yaml`     | 💙 Blue   |Lowest and most stable |
+| **Value Loss**        | `config_fast.yaml`     | 💙 Blue |Best reward prediction accuracy |
 
 ---
 
