@@ -49,6 +49,15 @@ We trained 4 different models with varying network sizes and training speeds.
 
 ---
 
+![image](https://github.com/user-attachments/assets/a3af8ab2-60df-4451-aaea-8101df7b1bac)
+
+![image](https://github.com/user-attachments/assets/2acad0e5-91ac-4abd-8e62-7c658ab4bb51)
+
+![image](https://github.com/user-attachments/assets/946a774a-e628-4414-a28c-f4845ee843bb)
+
+![image](https://github.com/user-attachments/assets/08fe9c32-a2df-4cb0-8975-674620d05fe7)
+
+
 ## ✅ Best Model
 
 **`config_fast.yaml`** was the best performing configuration, offering the fastest and most stable training.  
