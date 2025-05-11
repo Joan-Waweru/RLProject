@@ -55,7 +55,8 @@ We trained 4 different models with varying network sizes and training speeds.
 
 ![image](https://github.com/user-attachments/assets/946a774a-e628-4414-a28c-f4845ee843bb)
 
-![image](https://github.com/user-attachments/assets/08fe9c32-a2df-4cb0-8975-674620d05fe7)
+![image](https://github.com/user-attachments/assets/4c38152d-57e4-4cfd-8356-a4821efea10b)
+
 
 
 ## ✅ Best Model
