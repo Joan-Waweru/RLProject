@@ -61,3 +61,32 @@ It combined a higher learning rate with larger batch and buffer sizes for effici
 1. Clone the project and install ML-Agents:
 ```bash
 pip install mlagents
+```
+
+2. Train the agent:
+
+```bash
+mlagents-learn config/config_fast.yaml --run-id=fast_net --train
+```
+
+3. View training progress:
+```bash
+tensorboard --logdir=results
+```
+
+5. After training, assign the .nn model to the agent’s Behavior Parameters in Unity.
+
+## 📁 Project Structure
+```bash
+Assets/            # Unity scenes, scripts, prefabs
+config/            # ML-Agent YAML configurations
+results/           # TensorBoard logs and trained models
+```
+
+## 📸 Screenshots
+
+
+
+## 🙌 Credits
+Created by JoanWaweru
+
