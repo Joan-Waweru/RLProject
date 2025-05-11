@@ -40,12 +40,12 @@ We trained 4 different models with varying network sizes and training speeds.
 
 ## 📊 TensorBoard Results
 
-| Metric           | Best Config          | Notes |
-|------------------|----------------------|-------|
-| **Cumulative Reward** | `config_fast.yaml`     | Quickly reaches ~1.1 |
-| **Episode Length**    | `config_fast.yaml`     | Efficient episodes (~27 steps) |
-| **Policy Loss**       | `config_fast.yaml`     | Lowest and most stable |
-| **Value Loss**        | `config_fast.yaml`     | Best reward prediction accuracy |
+| Metric           | Best Config          | Colour    | Notes |
+|------------------|----------------------|-------|------|
+| **Cumulative Reward** | `config_fast.yaml`     | 🩶 Grey   |Quickly reaches ~1.1 |
+| **Episode Length**    | `config_fast.yaml`     | 💙 Blue   |Efficient episodes (~27 steps) |
+| **Policy Loss**       | `config_fast.yaml`     | 🩷 Pink   |Lowest and most stable |
+| **Value Loss**        | `config_fast.yaml`     | 💛 Yellow |Best reward prediction accuracy |
 
 ---
 
