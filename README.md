@@ -29,12 +29,12 @@ The agent is a blue ball trained to **hit a moving green cube** while avoiding *
 
 We trained 4 different models with varying network sizes and training speeds.
 
-| Config File        | Hidden Units | Layers | Batch Size | Learning Rate | Result |
-|--------------------|--------------|--------|------------|----------------|--------|
-| `config.yaml`      | 128          | 2      | 64         | 0.0003         | ✅ Stable baseline |
-| `config_fast.yaml` | 128          | 2      | 128        | 0.001          | ⭐ **Best overall** |
-| `config_large.yaml`| 256          | 3      | 64         | 0.0003         | ✅ Strong but slower |
-| `config_small.yaml`| 64           | 1      | 64         | 0.0003         | ❌ Did not learn |
+| Config File        | Colour    | Hidden Units | Layers | Batch Size | Learning Rate | Result |
+|--------------------|-----------|--------------|--------|------------|---------------|--------|
+| `config.yaml`      | 🩶 Grey   | 128      | 2      | 64         | 0.0003         | ✅ Stable baseline |
+| `config_fast.yaml` | 💙 Blue   |     128      | 2      | 128        | 0.001          | ⭐ **Best overall** |
+| `config_large.yaml`| 🩷 Pink   |     256      | 3      | 64         | 0.0003         | ✅ Strong but slower |
+| `config_small.yaml`| 💛 Yellow |      64      | 1      | 64         | 0.0003         | ❌ Did not learn |
 
 ---
 
