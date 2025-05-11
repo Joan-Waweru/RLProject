@@ -93,9 +93,8 @@ config/            # ML-Agent YAML configurations
 results/           # TensorBoard logs and trained models
 ```
 
-## 📸 Screenshots
-
-
+## 📸 Video Recording
+![Demo](media/demo.gif)
 
 ## 🙌 Credits
 Created by JoanWaweru
