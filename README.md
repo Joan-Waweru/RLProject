@@ -94,7 +94,7 @@ results/           # TensorBoard logs and trained models
 ```
 
 ## 📸 Video Recording
-![Demo](demo.gif)
+[![Watch the demo](https://img.youtube.com/vi/bduEMDJOCwU/0.jpg)](https://youtu.be/bduEMDJOCwU)
 
 ## 🙌 Credits
 Created by JoanWaweru
